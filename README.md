@@ -1,5 +1,6 @@
 
-A Blog of ersonal thought-provoking tales and analysIs
+
+A Blog of Personal thought-provoking tales and analysIs
 
 This project is a blog designed to curate various pieces, posts and articles of thought-provoking and analytical nature.
 It focses on vast array of technological and socio-cultural issues and how they influence our lifestyles and the world around us.
